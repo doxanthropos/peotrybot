@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:doxanthropos/peotrybot.git",
   "author": "Knut Jackowski <doxanthropos@googlemail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mastodon-api": "^1.3.0"
+  }
 }
