@@ -1,0 +1,8 @@
+{
+  "name": "peotrybot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:doxanthropos/peotrybot.git",
+  "author": "Knut Jackowski <doxanthropos@googlemail.com>",
+  "license": "MIT"
+}
